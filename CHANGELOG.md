@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.11.0](https://github.com/visgl/react-google-maps/compare/v0.10.0...v0.11.0) (2024-05-06)
+
+
+### ⚠ BREAKING CHANGES
+
+* **map:** The type passed to the `onProjectionChange` is changed from `MapCameraChangedEvent` to `MapEvent`, so there are no longer camera-props available for this event
+
+### Features
+
+* **advanced-marker:** add support for `clickable` option ([#341](https://github.com/visgl/react-google-maps/issues/341)) ([ca96e54](https://github.com/visgl/react-google-maps/commit/ca96e540a2117f7437745e8e1f71f83ef6c04e25))
+
+
+### Bug Fixes
+
+* **map:** change event-type of projectionChanged event to MapEvent ([#346](https://github.com/visgl/react-google-maps/issues/346)) ([83f9309](https://github.com/visgl/react-google-maps/commit/83f93091c858663b0183dd62bdc212a246013072))
+
 ## [0.10.0](https://github.com/visgl/react-google-maps/compare/v0.9.0...v0.10.0) (2024-05-03)
 
 
