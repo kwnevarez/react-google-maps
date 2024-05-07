@@ -110,18 +110,6 @@ const App = () => {
 Explore our [examples directory on GitHub](./examples) or the
 [examples on our website][examples] for full implementation examples.
 
-[api-provider]: https://visgl.github.io/react-google-maps/docs/api-reference/components/api-provider
-[api-map]: https://visgl.github.io/react-google-maps/docs/api-reference/components/map
-[api-marker]: https://visgl.github.io/react-google-maps/docs/api-reference/components/marker
-[api-adv-marker]: https://visgl.github.io/react-google-maps/docs/api-reference/components/advanced-marker
-[api-infowindow]: https://visgl.github.io/react-google-maps/docs/api-reference/components/info-window
-[api-use-lib]: https://visgl.github.io/react-google-maps/docs/api-reference/hooks/use-maps-library
-[docs]: https://visgl.github.io/react-google-maps/docs/
-[examples]: https://visgl.github.io/react-google-maps/examples
-[gmp-services]: https://developers.google.com/maps/documentation/javascript#services
-[gmp-libraries]: https://developers.google.com/maps/documentation/javascript/libraries
-[npm-package]: https://www.npmjs.com/package/@vis.gl/react-google-maps
-
 ## Terms of Service
 
 This sample uses Google Maps Platform services. Use of Google Maps Platform services through this sample is subject to the [Google Maps Platform Terms of Service](https://cloud.google.com/maps-platform/terms).
@@ -135,3 +123,15 @@ This sample is offered via an open source license. It is not governed by the Goo
 If you find a bug, or have a feature request, please [file an issue]([https://github.com/googlemaps-samples/js-3d-area-explorer/issues](https://github.com/visgl/react-google-maps/issues)) on GitHub. If you would like to get answers to technical questions from other Google Maps Platform developers, ask through one of our [developer community channels](https://developers.google.com/maps/developer-community). If you'd like to contribute, please check the Contributing guide.
 
 You can also discuss this sample on our Discord server.
+
+[api-provider]: https://visgl.github.io/react-google-maps/docs/api-reference/components/api-provider
+[api-map]: https://visgl.github.io/react-google-maps/docs/api-reference/components/map
+[api-marker]: https://visgl.github.io/react-google-maps/docs/api-reference/components/marker
+[api-adv-marker]: https://visgl.github.io/react-google-maps/docs/api-reference/components/advanced-marker
+[api-infowindow]: https://visgl.github.io/react-google-maps/docs/api-reference/components/info-window
+[api-use-lib]: https://visgl.github.io/react-google-maps/docs/api-reference/hooks/use-maps-library
+[docs]: https://visgl.github.io/react-google-maps/docs/
+[examples]: https://visgl.github.io/react-google-maps/examples
+[gmp-services]: https://developers.google.com/maps/documentation/javascript#services
+[gmp-libraries]: https://developers.google.com/maps/documentation/javascript/libraries
+[npm-package]: https://www.npmjs.com/package/@vis.gl/react-google-maps
