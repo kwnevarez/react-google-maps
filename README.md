@@ -1,25 +1,3 @@
-> [!IMPORTANT]
-> This project is still in its alpha phase.
->
-> When using it be aware that things may not yet work as expected and can
-> break at any point. Releases happen often, so when you experience problems,
-> make sure you are using the latest version (check with `npm outdated` in
-> your project) before opening an issue.
->
-> We are still in a phase where we can easily make bigger changes, so we ask
-> you to please [provide feedback](https://github.com/visgl/react-google-maps/issues/new)
-> on everything you notice - including, but not limited to
->
-> - developer experience (installation, typings, sourcemaps, framework integration, ...)
-> - hard to understand concepts and APIs
-> - wrong, missing, outdated or inaccurate documentation
-> - use-cases not covered by the API
-> - missing features
-> - and of course any bugs you encounter
->
-> Also, feel free to use [GitHub discussions](https://github.com/visgl/react-google-maps/discussions) to ask questions or start a new
-> discussion.
-
 # React Components for the Google Maps JavaScript API
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/visgl/react-google-maps/tree/main/LICENSE)
@@ -143,3 +121,17 @@ Explore our [examples directory on GitHub](./examples) or the
 [gmp-services]: https://developers.google.com/maps/documentation/javascript#services
 [gmp-libraries]: https://developers.google.com/maps/documentation/javascript/libraries
 [npm-package]: https://www.npmjs.com/package/@vis.gl/react-google-maps
+
+## Terms of Service
+
+This sample uses Google Maps Platform services. Use of Google Maps Platform services through this sample is subject to the [Google Maps Platform Terms of Service](https://cloud.google.com/maps-platform/terms).
+
+This sample is not a Google Maps Platform Core Service. Therefore, the Google Maps Platform Terms of Service (e.g. Technical Support Services, Service Level Agreements, and Deprecation Policy) do not apply to the code in this sample.
+
+## Support
+
+This sample is offered via an open source license. It is not governed by the Google Maps Platform [Support Technical Support Services Guidelines](https://cloud.google.com/maps-platform/terms/tssg), the [SLA](https://cloud.google.com/maps-platform/terms/sla), or the [Deprecation Policy](https://cloud.google.com/maps-platform/terms) (however, any Google Maps Platform services used by the sample remain subject to the Google Maps Platform Terms of Service).
+
+If you find a bug, or have a feature request, please [file an issue]([https://github.com/googlemaps-samples/js-3d-area-explorer/issues](https://github.com/visgl/react-google-maps/issues)) on GitHub. If you would like to get answers to technical questions from other Google Maps Platform developers, ask through one of our [developer community channels](https://developers.google.com/maps/developer-community). If you'd like to contribute, please check the Contributing guide.
+
+You can also discuss this sample on our Discord server.
